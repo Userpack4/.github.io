@@ -3,7 +3,7 @@
 <title>Politiche di Privacy in SatOrbit</title>
 </head>
 <body>
-<p><big></big><strong>Politiche di Privacy in SatOrbit<br /></strong></big>Effettive dal 11-06-2020</p>
+<p><big><strong>Politiche di Privacy in SatOrbit<br /></strong></big>Effettive dal 11-06-2020</p>
 <p>Questa applicazione &egrave; un software di tracciamento satellitare per amatori</p>
 <p><strong>SatOrbit</strong> &egrave; stata sviluppata da SilvioItaly come una App Libera (di seguito il servizio)</p>
 <p>Questo servizio &egrave; fornito da SilvioItaly gratuitamente da utilizzarsi cos&igrave; com&rsquo;&egrave;.</p>
